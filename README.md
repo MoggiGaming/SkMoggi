@@ -52,11 +52,6 @@ Du kan hente custom Minecraft hoveder med tekstur-data fra https://minecraft-hea
 ~~~yaml
 import:
   dk.moggi.getHeadListener
-
-# Eksempel:
-# Du kan nu bruge getHead() funktionen som her:
-# set {_hoved} to getHead("#Value")
-# give player {_hoved}
 ~~~
 
 ---
